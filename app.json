@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "imbedded-game-example",
+    "slug": "imbedded-game-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "imbedded-game-example"
+}
